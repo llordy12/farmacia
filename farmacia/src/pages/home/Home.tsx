@@ -2,9 +2,9 @@
 function Home() {
     return (
         <>
-            <div className="bg-gray-800 flex justify-center">
-                <div className='container grid-flow-dense text-black'>
-                    <div className="flex flex-col gap-4 items-center justify-center py-4">
+            <div className="bg-slate-800 flex justify-center">
+                <div className='container grid grid-rows-1 text-black'>
+                    <div className="flex flex-col gap-6 items-center justify-center py-4">
                         <h2 className='text-5xl font-bold'>
                             Seja Bem Vindo!
                         </h2>
@@ -23,7 +23,7 @@ function Home() {
 
                     <div className="flex justify-center ">
                         <img
-                            src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2N6b2R5N2dleTNhd21kbnJxa2s3cGJmcDJzbG15bHMyZWwwcnE2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tDRYEbEX9jfeIhifk3/giphy.gif"
+                            src="https://media1.giphy.com/media/tDRYEbEX9jfeIhifk3/giphy.webp?cid=790b7611dxrinndz00piq21pxv3ow3uoxituxaosdbyiady8&ep=v1_gifs_search&rid=giphy.webp&ct=g"
                             alt="Imagem Página Home"
                             className='w-2/3'
                         />
